@@ -25,7 +25,7 @@ export default function Footer() {
                             Abhishek Shrivastava is a skilled frontend developer with a passion for building intuitive and user-friendly
                             interfaces. With extensive experience in modern web technologies, Abhishek is committed to delivering
                             high-quality solutions that meet the unique needs of each client. When he's not coding, Abhishek enjoys staying
-                            up-to-date with the latest industry trends and exploring new technologies to enhance his skills.
+                            up-to-date with the latest industry trends and exploring new technologies to enhance his skills..
                         </Typography>
                     </Grid>
                     <Grid item xs={12} sm={4}>
