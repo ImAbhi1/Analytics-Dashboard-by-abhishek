@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Analytics-Dashboard-by-abhishek/static/css/main.bedf3d6f.css",
+    "main.js": "/Analytics-Dashboard-by-abhishek/static/js/main.09721984.js",
+    "index.html": "/Analytics-Dashboard-by-abhishek/index.html",
+    "main.bedf3d6f.css.map": "/Analytics-Dashboard-by-abhishek/static/css/main.bedf3d6f.css.map",
+    "main.09721984.js.map": "/Analytics-Dashboard-by-abhishek/static/js/main.09721984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bedf3d6f.css",
+    "static/js/main.09721984.js"
+  ]
+}
